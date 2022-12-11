@@ -1,0 +1,263 @@
+[
+    {
+        "id": 1,
+        "product_name": "Mobile",
+        "category": "Mobiles",
+        "category_id": 1,
+        "Price": 13500,
+        "Image":  "https://rukminim1.flixcart.com/image/300/300/l0igvww0/mobile/j/d/g/-original-imagcafg6hbeeqwf.jpeg",
+        "Color": "White",
+        "Brand": "POCO"
+    },
+    {
+        "id": 2,
+        "product_name": "Mobile",
+        "category": "Mobiles",
+        "category_id": 1,
+        "Price": 14499,
+        "Image": "https://rukminim1.flixcart.com/image/300/300/l2p23rk0/mobile/x/b/y/-original-imagdznhnzmzfbwx.jpeg",
+        "Color": "Black" ,
+        "Brand": "Vivo"
+    },
+    {
+        "id": 3,
+        "product_name": "Mobile",
+        "category": "Mobiles",
+        "category_id": 1,
+        "Price": 15000,
+        "Image": "https://rukminim1.flixcart.com/image/300/300/l2jcccw0/mobile/h/x/3/-original-imagduwqakhhkrse.jpeg",
+        "Color": "Grey black",
+        "Brand": "OPPO"
+    },
+    {
+        "id": 4,
+        "product_name": "Mobile",
+        "category": "Mobiles",
+        "category_id": 1,
+        "Price": 69700,
+        "Image": "https://rukminim1.flixcart.com/image/312/312/ktketu80/mobile/2/y/o/iphone-13-mlpk3hn-a-apple-original-imag6vpyur6hjngg.jpeg",
+        "Color": "Blue",
+        "Brand": "Apple iPhone"
+    },
+    {
+        "id": 5,
+        "product_name": "Mobile",
+        "category": "Mobiles",
+        "category_id": 1,
+        "Price": 2000,
+        "Image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/w/o/s/-original-imaghuf9mryjhf3m.jpeg",
+        "Color": "Sandy gold",
+        "Brand": "Realme"
+    },
+    {
+        "id": 6,
+        "product_name": "Camera",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 30900,
+        "Image": "https://rukminim1.flixcart.com/image/300/300/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg",
+        "Color": "Black",
+        "Brand": "Canon"
+    },
+    {
+        "id": 7,
+        "product_name": "Television",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 2000,
+        "Image": "https://rukminim1.flixcart.com/image/312/312/l47cu4w0/television/9/0/f/-original-imagf5qummst7t94.jpeg",
+        "Color": "Black",
+        "Brand": "Samsung"
+    },
+    {
+        "id": 8,
+        "product_name": "Laptop",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 2000,
+        "Image": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/a/c/3/-original-imagg56h9gat842s.jpeg",
+        "Color": "grey",
+        "Brand": "Lenovo"
+    },
+    {
+        "id": 9,
+        "product_name": "A.C",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 2000,
+        "Image": "https://rukminim1.flixcart.com/image/312/312/xif0q/air-conditioner-new/e/l/b/-original-imaggf36gs6p98gf.jpeg",
+        "Color": "White",
+        "Brand": "Whirpool"
+    },
+    {
+        "id": 10,
+        "product_name": "Microwave Oven",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 2000,
+        "Image": "https://rukminim1.flixcart.com/image/300/300/j9zyd8w0/microwave-new/d/h/s/mc2886bfum-lg-original-imaezzezqehbxhcv.jpeg",
+        "Color": "Black",
+        "Brand": "L.G"
+    },
+    {
+        "id": 11,
+        "product_name": "Mens top",
+        "category": "Fashion",
+        "category_id": 3,
+        "Price": 500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/b/f/b/s-all-rbc-white-one-nb-nicky-boy-original-imagjz5bh3thf59u.jpeg",
+        "Color": "Yellow",
+        "Brand": "Nicky Boy"
+    },
+    {
+        "id": 12,
+        "product_name": "Trouser",
+        "category": "Fashion",
+        "category_id": 3,
+        "Price": 390,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/612/612/xif0q/trouser/f/9/p/32-cyfor-b-cyphus-original-imag6yz2jnxtvc5s-bb.jpeg",
+        "Color": " Navy Blue",
+        "Brand": "Cyphus"
+    },
+    {
+        "id": 13,
+        "product_name": "Kurta & Kurties",
+        "category": "Fashion",
+        "category_id": 3,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/d/4/a/m-sp-kurtadupatta-green-shantipancham-original-imafvtzhkhafnngu-bb.jpeg",
+        "Color": "Blue",
+        "Brand": "Aerotics"
+    },
+    {
+        "id": 14,
+        "product_name": "Sandals",
+        "category": "Fashion",
+        "category_id": 3,
+        "Price": 269,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/612/612/xif0q/sandal/u/o/p/-original-imaghxfcnakstgzs.jpeg",
+        "Color": "Golden",
+        "Brand": "Saba"
+    },
+    {
+        "id": 15,
+        "product_name": "Jewelery",
+        "category": "Fashion",
+        "category_id": 3,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-ring/s/z/s/adjustable-2-srn-018-ring-set-devora-original-imagg32389dwbaff.jpeg",
+        "Color": "Silver",
+        "Brand": "Devora"
+    },
+    {
+        "id": 16,
+        "product_name": "Peanut Butter",
+        "category": "Grocery",
+        "category_id": 4,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/280/280/khmbafk0/jam-spread/5/j/s/924-peanut-butter-100-natural-crunchy-plastic-bottle-nut-butter-original-imafxh8kxzcpb9tv.jpeg",
+        "Quality" : "A1",
+        "Brand": "Sundrop"
+    },
+    {
+        "id": 17,
+        "product_name": "Oil",
+        "category": "Grocery",
+        "category_id": 4,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/280/280/xif0q/edible-oil/x/t/y/-original-imaghuf2ws5zutyy.jpeg",
+        "Quality" : "A1",
+        "Brand": "Saffola"
+    },
+    {
+        "id": 18,
+        "product_name": "Toothpaste",
+        "category": "Grocery",
+        "category_id": 4,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/280/280/xif0q/toothpaste/r/5/r/-original-imagkn9vppcx4yyg.jpeg",
+        "Quality" : "A",
+        "Brand": "Dabur"
+    },
+    {
+        "id": 19,
+        "product_name": "Floor cleaner",
+        "category": "Grocery",
+        "category_id": 4,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/280/280/xif0q/bathroom-floor-cleaner/a/g/d/-original-imagkgk2tuyrzt9g.jpeg",
+        "Quality" : "A" ,
+        "Brand": "Lizol"
+    },
+    {
+        "id": 20,
+        "product_name": "Masher",
+        "category": "Grocery",
+        "category_id": 4,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/280/280/k3ncakw0/masher/9/h/g/7rm4r188-ofixo-original-imafhthhekzexjdv.jpeg",
+        "Quality" : "A1" ,
+        "Brand": "Macarize"
+    },
+    {
+        "id": 21,
+        "product_name": "Sofa & sectional",
+        "category": "Furniture",
+        "category_id": 5,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/200/200/jim0x3k0/sofa-sectional/c/v/7/blue-polycotton-ph0003-perfect-homes-by-flipkart-blue-original-imaf6dhhsfhvvjdn.jpeg ",
+        "Color": " Blue"
+    },
+    {
+        "id": 22,
+        "product_name": "dressing table",
+        "category": "Furniture",
+        "category_id": 5,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/200/200/keg02a80/wardrobe-closet/f/y/f/particle-board-bewtri000500800620-kurlon-wenge-original-imafv49kgfrmmxbq.jpeg",
+        "Color": "brown "
+    },
+    {
+        "id": 23,
+        "product_name": "Study chair",
+        "category": "Furniture",
+        "category_id": 5,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/200/200/kf75fgw0/office-study-chair/z/g/w/carbon-steel-low-back-royal-ergonomic-desk-mesh-chair-in-brown-original-imafvzvprhk3xqdc.jpeg ",
+        "Color": " Black"
+    },
+    {
+        "id": 24,
+        "product_name": "Bed",
+        "category": "Furniture",
+        "category_id": 5,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/200/200/jm9hfgw0/bed/h/g/g/king-na-rosewood-sheesham-bkwl05nhbs0401d1p-flipkart-perfect-original-imaf97cwhvgnwg95.jpeg ",
+        "Color": "Brown "
+    },
+    {
+        "id": 25,
+        "product_name": "Computer table",
+        "category": "Furniture",
+        "category_id": 5,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://rukminim1.flixcart.com/image/612/612/knm2s280/office-study-table/c/d/5/cherry-hardwood-study-desk-folding-laptop-table-home-corner-original-imag296wgvbr8vfy.jpeg ",
+        "Color": "White "
+    }
+
+]
